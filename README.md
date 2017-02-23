@@ -1,6 +1,6 @@
 # course-api
 
-Implemented REST API using Spring boot, JPA and MySQL </br>
+Implemented REST API using Spring boot and JPA </br>
 GET&nbsp;&nbsp;&nbsp;/topics&nbsp;&nbsp;&nbsp;Gets all topics  </br>
 GET&nbsp;&nbsp;&nbsp;/topics/id&nbsp;&nbsp;&nbsp;Gets the topic   </br>
 POST&nbsp;&nbsp;&nbsp;/topics&nbsp;&nbsp;&nbsp;Create new topic </br> 
