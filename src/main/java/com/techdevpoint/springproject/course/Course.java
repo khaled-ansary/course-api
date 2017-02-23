@@ -2,6 +2,7 @@ package com.techdevpoint.springproject.course;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 
 import com.techdevpoint.springproject.topic.Topic;
 
@@ -12,7 +13,7 @@ public class Course {
 	private String id;
 	private String name;
 	private String description;
-	
+	@ManyToOne
 	private Topic topic;
 	
 	
