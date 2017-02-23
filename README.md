@@ -9,3 +9,8 @@ DELETE&nbsp;&nbsp;&nbsp;/topics/id&nbsp;&nbsp;&nbsp;Delete the topic </br>
 
 URL of Common Application properties for Spring boot (see resources/application.properties) </br>
 https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html </br>
+Important Links </br>
+http://start.spring.io/ </br>
+https://spring.io/guides/gs/actuator-service/ (to monitor spring boot) 
+
+
